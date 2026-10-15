@@ -1,6 +1,6 @@
 # Projet-Pokedexx
  
-Petit Pokédex réalisé pour apprendre **Vue.js** (front) et **Node.js** (back).
+Petit Pokédex réalisé en 2025 pour apprendre **Vue.js** (front) et **Node.js** (back).
  
 - **Front** : site Vue.js
 - **nodePokemonApi** : API Node.js qui fournit les données au site
